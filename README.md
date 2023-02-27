@@ -32,8 +32,6 @@ Este conjunto de dados foi disponibilizado pelo Statlog (German Credit Data) dad
 - A Base de Dados contém ***informações sensíveis***, como o sexo da pessoa, a qual não deve ser considerado no modelo de acordo com as regulamentações do Banco Central.
 - A variável `default` é a nossa variável resposta, onde: 0 = Credito Não Concedido | 1 = Crédito Concedido;
 
-[Fonte dos Dados](https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data))
-
 ## :computer: Conteúdo
 O Projeto foi organizados nos seguintes tópicos para uma melhor organização e compressão:
 1. Sobre o Dataset do projeto e Análise Exploratória dos dados;
@@ -44,6 +42,10 @@ O Projeto foi organizados nos seguintes tópicos para uma melhor organização e
 6. Gerando as Métricas;
 7. Considerações Finais;
 
-## :closed_book: Conclusão
+## :closed_book: Considerações Finais
 Olhando para as métricas, podemos perceber que a acurácia, por exemplo, não é um bom parâmetro para avaliarmos o modelo que foi desenvolvido em cima de uma base de dados desbalanceados, isso porque os parâmetros do modelo não diferenciam a classe majoritária da minoritária. Através do cálcula da área ROC, obtivemos o valor de 0,764, que de acordo com a convenção estatística, temos uma discriminação aceitável.
 
+
+## :bulb: Referências
+[UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data))
+[Alura Cursos](https://cursos.alura.com.br/course/machine-learning-credit-scoring)
