@@ -1,6 +1,6 @@
 # Aplicação de Machine Learning em Modelos de Credit Scoring
 
-![Como Funciona](https://file%2B.vscode-resource.vscode-cdn.net/c%3A/Users/reyna/OneDrive/Imagens/concessao_credito.jpg?version%3D1677532920963)
+![Como Funciona a Concessão de Crédito](https://user-images.githubusercontent.com/97552106/221696744-d56739cc-7aab-465a-a78b-e2f7a3ee79bd.jpg)
 
 
 ## :dart: Objetivo
