@@ -48,4 +48,5 @@ Olhando para as métricas, podemos perceber que a acurácia, por exemplo, não �
 
 ## :bulb: Referências
 [UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data))
+
 [Alura Cursos](https://cursos.alura.com.br/course/machine-learning-credit-scoring)
