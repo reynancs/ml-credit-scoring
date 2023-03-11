@@ -43,7 +43,7 @@ O Projeto foi organizados nos seguintes tópicos para uma melhor organização e
 7. Considerações Finais;
 
 ## :closed_book: Considerações Finais
-Olhando para as métricas, podemos perceber que a acurácia, por exemplo, não é um bom parâmetro para avaliarmos o modelo que foi desenvolvido em cima de uma base de dados desbalanceados, isso porque os parâmetros do modelo não diferenciam a classe majoritária da minoritária. Através do cálcula da área ROC, obtivemos o valor de 0,764, que de acordo com a convenção estatística, temos uma discriminação aceitável.
+Olhando para as métricas, podemos perceber que a acurácia, por exemplo, não é um bom parâmetro para avaliarmos o modelo que foi desenvolvido em cima de uma base de dados desbalanceados, isso porque os parâmetros do modelo não diferenciam a classe majoritária da minoritária. Através do cálcula da área ROC, obtivemos o valor de 0,764, que de acordo com a convenção estatística, temos uma discriminação aceitável;
 
 
 ## :bulb: Referências
